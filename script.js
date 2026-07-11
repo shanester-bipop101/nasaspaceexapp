@@ -10,7 +10,7 @@
 // ---- 1. API key -------------------------------------------------
 // Get your own free key at https://api.nasa.gov (takes ~1 minute).
 // DEMO_KEY works for testing but has low rate limits (~30 req/hr).
-const API_KEY = "DEMO_KEY"; // <-- replace with your key
+const API_KEY = "JYjPa5vBBGFV4zjeGLhSPXKRrMswYFo8yas3hAvw"; // <-- replace with your key
 
 const APOD_URL = "https://api.nasa.gov/planetary/apod";
 const DAYS_TO_SHOW = 9;
